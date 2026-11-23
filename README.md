@@ -9,11 +9,13 @@ I'm a Computer Diploma graduate from Government Polytechnic Sirsa, Haryana, inte
 - Python
 - HTML
 - CSS
-- JavaScript
 - PHP
 - MySQL
 - Pandas
 - NumPy
+- Excel
+- PowerBI
+- 
 - Git & GitHub
 
 ### 🚀 Projects
